@@ -7,9 +7,9 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"index.html": "9e8a4a92b01c044fb619a29c7ec039ba",
-"/": "9e8a4a92b01c044fb619a29c7ec039ba",
-"main.dart.js": "a4e988f7f0735c98a38d98cf9fb53333",
+"index.html": "78fd4c32c8392c0e9c8f8226a0301a97",
+"/": "78fd4c32c8392c0e9c8f8226a0301a97",
+"main.dart.js": "4447352ba616e906d99c5a987956c235",
 "version.json": "0b92a4e91d81aa71c9884ec95d58885e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/assets/Cloud_database_PNG.png": "36e1841f173cbe9279d0fd1108274fcf",
 "assets/assets/CloudEthix_logo.jpeg": "0874f0663e12424f838259acc60a118b",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "1cea34f445823842dff3f37730993f7c",
+"assets/NOTICES": "3f8a012755abdec00ea503572fba724a",
 "manifest.json": "dd1f70491b97e5770aef03b3af16a8ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
