@@ -7,8 +7,8 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"index.html": "21e632e5150c2c998eb7fd368f765b27",
-"/": "21e632e5150c2c998eb7fd368f765b27",
+"index.html": "018500585a8cd191743b161243df2a50",
+"/": "018500585a8cd191743b161243df2a50",
 "main.dart.js": "1d7b7357337ceb6073b263bcbd2a50e4",
 "version.json": "d56cf5ac31312b9c2527f35b8b0dc129",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -18,10 +18,6 @@ const RESOURCES = {
 "assets/assets/CloudEthix_logo.jpeg": "0874f0663e12424f838259acc60a118b",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "4855342f8c44495d0650adc244728ad8",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "manifest.json": "dd1f70491b97e5770aef03b3af16a8ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
